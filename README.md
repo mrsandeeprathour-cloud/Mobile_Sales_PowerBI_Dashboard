@@ -27,8 +27,8 @@ This project is an interactive **Mobile Sales Dashboard** built in **Microsoft P
 ![Dashboard Preview](dashboard.png)
 
 ## 📁 Files Included
-- `Mobile Sales Dashboard.pbix` – Power BI project file
-- `dashboard.png` – Dashboard screenshot
+- `Project 1.pbix` – Power BI project file
+- `Screenshot 2026-07-03 140840.png` – Dashboard screenshot
 - `README.md` – Project documentation
 
 ## 📚 Learning Source
